@@ -1,0 +1,29 @@
+h1 {
+    color: orange;
+    background: paleturquoise;
+}
+
+h2 {
+    color: aqua;
+}
+
+p {
+    color: aquamarine;
+}
+
+.fr {
+    color: blue;
+}
+
+.vg {
+    color: blueviolet;
+}
+
+#frut {
+    color: antiquewhite;
+    background-color: black;
+}
+
+#veg {
+    color: red;
+}

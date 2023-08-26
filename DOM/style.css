@@ -1,0 +1,13 @@
+h1 {
+    color: green;
+    background-color: black;
+    height: 500px;
+    width: 200px;
+}
+
+p {
+    color: red;
+    background-color: purple;
+    height: 500px;
+    width: 200px;
+}
