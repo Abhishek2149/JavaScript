@@ -8,6 +8,7 @@ let a = birthYear.map(function(el,index,arr){
     return 2023 - el
 })
 console.log(a)
+
 //program 2
 //filter()
 let arr = [33,44,66,88,23,14]
@@ -89,3 +90,4 @@ console.log(a8)
 //forEach()-- to perform specified operation for eatch element of the array
 //some()-- if some elements or only one element follows the condition it will return true
 //every()-- if all elements satisfies the condition it will return true otherwise false
+
